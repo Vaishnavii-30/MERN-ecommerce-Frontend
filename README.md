@@ -16,7 +16,7 @@ This project is part of a full-stack MERN E-commerce application.
 
 ## 🛠️ Tech Stack
 - **Frontend:** React.js, Tailwind CSS, JavaScript  
-- **State Management:** Redux Toolkit (if used)  
+- **State Management:** Redux Toolkit
 - **Package Manager:** npm  
 
 ---
